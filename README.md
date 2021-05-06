@@ -59,12 +59,14 @@
     * - 사진 인식 앱
       적당한 두께로 쓰여진 숫자를 카메라로 인식 한다. 단 초록 네모영역 안에 크기를 맞춰서 버튼을 눌러야 한다.
       인식을 한 이미지는 흑백 버전으로 갤러리에 저장 되므로 확인 후 잘 되었으면 성공이다.
+      아래 이미지 처럼 화면의 가운데 아래쪽에 인식된 숫자가 toggle로 뜨게 되어있다.
  ![image](https://user-images.githubusercontent.com/49871871/117303646-e8a04d80-aeb7-11eb-9be5-df2434844da3.png)
 
 
 
     * - 그림 인식 앱
       네모칸 안에 크기에 맞게 숫자를 그린고 detect버튼을 클릭한다. 이것도 마찬가지로 네모칸 영역에 맞춰 그려줘야 한다.
+      아래 이미지처럼 prediction이 인식된 숫자이고 probability는 인식의 정확도이다.
  ![image](https://user-images.githubusercontent.com/49871871/117303491-b42c9180-aeb7-11eb-9f9d-6b43ba957bb7.png)
 
  

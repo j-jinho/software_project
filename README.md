@@ -60,7 +60,7 @@
       적당한 두께로 쓰여진 숫자를 카메라로 인식 한다. 단 초록 네모영역 안에 크기를 맞춰서 버튼을 눌러야 한다.
       인식을 한 이미지는 흑백 버전으로 갤러리에 저장 되므로 확인 후 잘 되었으면 성공이다.
       아래 이미지 처럼 화면의 가운데 아래쪽에 인식된 숫자가 toggle로 뜨게 되어있다.
- ![image](https://user-images.githubusercontent.com/49871871/117303646-e8a04d80-aeb7-11eb-9be5-df2434844da3.png)
+ ![image](https://user-images.githubusercontent.com/49871871/117305044-5ac56200-aeb9-11eb-9ff3-4fa6f0a87fbf.png)
 
 
 

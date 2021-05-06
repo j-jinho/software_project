@@ -63,5 +63,6 @@
 
     * - 그림 인식 앱
       네모칸 안에 크기에 맞게 숫자를 그린고 detect버튼을 클릭한다. 이것도 마찬가지로 네모칸 영역에 맞춰 그려줘야 한다.
- 
+ ![image](https://user-images.githubusercontent.com/49871871/117303491-b42c9180-aeb7-11eb-9f9d-6b43ba957bb7.png)
+
  

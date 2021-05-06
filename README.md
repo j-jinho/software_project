@@ -59,7 +59,8 @@
     * - 사진 인식 앱
       적당한 두께로 쓰여진 숫자를 카메라로 인식 한다. 단 초록 네모영역 안에 크기를 맞춰서 버튼을 눌러야 한다.
       인식을 한 이미지는 흑백 버전으로 갤러리에 저장 되므로 확인 후 잘 되었으면 성공이다.
-    ![image](https://user-images.githubusercontent.com/49871871/117303586-d32b2380-aeb7-11eb-87fc-53c80d07965a.png)
+ ![image](https://user-images.githubusercontent.com/49871871/117303646-e8a04d80-aeb7-11eb-9be5-df2434844da3.png)
+
 
 
     * - 그림 인식 앱
